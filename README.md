@@ -1,5 +1,7 @@
 # TCC_UnB
-Trabalho de Graduação de Renato J C Netto - Engenharia Elétrica UnB 1/2018 -  Acesso fácil aos arquivos de áudio usados nas comparações realizadas no trabalho.
+Trabalho de Conclusão de Curso de Renato J C Netto - Simulação Acústica e Auralização: Quão próximos podemos chegar do ambiente real? - Engenharia Elétrica - UnB 1/2018
+
+Este repositório visa garantir o acesso fácil aos arquivos de áudio (.WAV) usados no trabalho.
 
 --------------------------------------------
 
